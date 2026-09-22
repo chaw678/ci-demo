@@ -16,4 +16,4 @@ class DuckFine:
 		fee = min(fee, self.MAX_FEE)
 		self.total_owed += fee
 		return fee
-
+	#asdcascds
